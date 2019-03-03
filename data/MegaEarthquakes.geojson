@@ -1,0 +1,385 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 9.5,
+        "Location": "Bio-Bio, Chile",
+        "Alternative Name": "Valdivia Earthquake",
+        "Date (UTC)": "5/22/1960",
+        "Time (UTC)": "19:11",
+        "Y": -38.14,
+        "X": -73.41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41,
+          -38.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 9.2,
+        "Location": "Southern Alaska",
+        "Alternative Name": "1964 Great Alaska Earthquake, Prince William Sound Earthquake, Good Friday Earthquake",
+        "Date (UTC)": "3/28/1964",
+        "Time (UTC)": "3:36",
+        "Y": 60.91,
+        "X": -147.34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.34,
+          60.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 9.1,
+        "Location": "Off the West Coast of Northern Sumatra",
+        "Alternative Name": "Sumatra-Andaman Islands Earthquake, 2004 Sumatra Earthquake and Tsunami, Indian Ocean Earthquake",
+        "Date (UTC)": "12/26/2004",
+        "Time (UTC)": "0:58",
+        "Y": 3.3,
+        "X": 95.98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.98,
+          3.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 9.1,
+        "Location": "Near the East Coast of Honshu, Japan",
+        "Alternative Name": "Tohoku Earthquake",
+        "Date (UTC)": "3/11/2011",
+        "Time (UTC)": "5:46",
+        "Y": 38.3,
+        "X": 142.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.37,
+          38.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 9,
+        "Location": "Off the East Coast of the Kamchatka Peninsula, Russia",
+        "Alternative Name": "Kamchatka, Russia",
+        "Date (UTC)": "11/4/1952",
+        "Time (UTC)": "16:58",
+        "Y": 52.62,
+        "X": 159.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.78,
+          52.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.8,
+        "Location": "Offshore Bio-Bio, Chile",
+        "Alternative Name": "Maule Earthquake",
+        "Date (UTC)": "2/27/2010",
+        "Time (UTC)": "6:34",
+        "Y": -36.12,
+        "X": -72.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9,
+          -36.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.8,
+        "Location": "Near the Coast of Ecuador",
+        "Alternative Name": "1906 Ecuador�Colombia Earthquake",
+        "Date (UTC)": "1/31/1906",
+        "Time (UTC)": "15:36",
+        "Y": 0.96,
+        "X": -79.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37,
+          0.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.7,
+        "Location": "Rat Islands, Aleutian Islands, Alaska",
+        "Alternative Name": "Rat Islands Earthquake",
+        "Date (UTC)": "2/4/1965",
+        "Time (UTC)": "5:01",
+        "Y": 51.25,
+        "X": 178.72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.72,
+          51.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.6,
+        "Location": "Eastern Xizang-India border region",
+        "Alternative Name": "Assam, Tibet",
+        "Date (UTC)": "8/15/1950",
+        "Time (UTC)": "14:09",
+        "Y": 28.36,
+        "X": 96.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.45,
+          28.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.6,
+        "Location": "off the West Coast of Northern Sumatra",
+        "Alternative Name": "",
+        "Date (UTC)": "4/11/2012",
+        "Time (UTC)": "8:39",
+        "Y": 2.33,
+        "X": 93.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.06,
+          2.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.6,
+        "Location": "Northern Sumatra, Indonesia",
+        "Alternative Name": "Nias Earthquake",
+        "Date (UTC)": "3/28/2005",
+        "Time (UTC)": "16:10",
+        "Y": 2.09,
+        "X": 97.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.11,
+          2.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.6,
+        "Location": "Andreanof Islands, Aleutian Islands, Alaska",
+        "Alternative Name": "",
+        "Date (UTC)": "3/9/1957",
+        "Time (UTC)": "14:23",
+        "Y": 51.5,
+        "X": -175.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.63,
+          51.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.6,
+        "Location": "South of Alaska",
+        "Alternative Name": "Unimak Island Earthquake, Alaska",
+        "Date (UTC)": "4/1/1946",
+        "Time (UTC)": "12:29",
+        "Y": 53.49,
+        "X": -162.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.83,
+          53.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.5,
+        "Location": "Banda Sea",
+        "Alternative Name": "",
+        "Date (UTC)": "2/1/1938",
+        "Time (UTC)": "19:04",
+        "Y": -5.05,
+        "X": 131.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.61,
+          -5.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.5,
+        "Location": "Atacama, Chile",
+        "Alternative Name": "Chile-Argentina Border",
+        "Date (UTC)": "11/11/1922",
+        "Time (UTC)": "4:33",
+        "Y": -28.29,
+        "X": -69.85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85,
+          -28.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.5,
+        "Location": "Kuril Islands",
+        "Alternative Name": "",
+        "Date (UTC)": "10/13/1963",
+        "Time (UTC)": "5:18",
+        "Y": 44.87,
+        "X": 149.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.48,
+          44.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.4,
+        "Location": "Near the East Coast of Kamchatka Peninsula, Russia",
+        "Alternative Name": "Kamchatka, Russia",
+        "Date (UTC)": "2/3/1923",
+        "Time (UTC)": "16:02",
+        "Y": 54.49,
+        "X": 160.47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.47,
+          54.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.4,
+        "Location": "Southern Sumatra, Indonesia",
+        "Alternative Name": "",
+        "Date (UTC)": "9/12/2007",
+        "Time (UTC)": "11:10",
+        "Y": -4.44,
+        "X": 101.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.37,
+          -4.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.4,
+        "Location": "Near the Coast of Southern Peru",
+        "Alternative Name": "Arequipa, Peru Earthquake",
+        "Date (UTC)": "6/23/2001",
+        "Time (UTC)": "20:33",
+        "Y": -16.27,
+        "X": -73.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64,
+          -16.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mag": 8.4,
+        "Location": "Off the East Coast of Honshu, Japan",
+        "Alternative Name": "Sanriku, Japan",
+        "Date (UTC)": "3/2/1933",
+        "Time (UTC)": "17:31",
+        "Y": 39.21,
+        "X": 144.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.59,
+          39.21
+        ]
+      }
+    }
+  ]
+}

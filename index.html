@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Top 20 Largest Earthquakes in the World</title>
+
+		<!--put your external stylesheet links here-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+        integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+        crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+        integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+        crossorigin=""></script>
+        
+        <!-- Load Esri Leaflet from CDN -->
+        <script src="https://unpkg.com/esri-leaflet@2.2.3/dist/esri-leaflet.js"
+        integrity="sha512-YZ6b5bXRVwipfqul5krehD9qlbJzc6KOGXYsDjU9HHXW2gK57xmWl2gU6nAegiErAqFXhygKIsWPKbjLPXVb2g=="
+        crossorigin=""></script>
+        
+        <script src="https://unpkg.com/leaflet-sidebar-v2"></script>
+    
+
+		<link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="lib/leaflet.css">
+        <link rel="stylesheet" type="text/css" href="css/leaflet-sidebar.css">
+        <link rel="stylesheet" type="text/css" href="css/leaflet-sidebar.min.css">
+        
+        <link rel="stylesheet" href="lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.css">
+	    <link rel="stylesheet" href="lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css">
+	    <script src="lib/Leaflet.markercluster-1.4.1/dist/leaflet.markercluster-src.js"></script>
+    
+
+
+	</head>
+
+	<body>
+        <!-- Include Leaflet.heat from CDN -->
+        <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+        <!-- Load Heatmap Feature Layer from CDN -->
+        <script src="https://unpkg.com/esri-leaflet-heatmap@2.0.0"></script>
+
+
+    
+        
+        
+        
+        <div id="map"></div>
+        <div id="panel">
+            <div id="title">
+                <h3 align="center" style=color:white;>Top 20 Largest Earthquakes in the World</h3>
+                <img src="img/seismogram.png" height="30" width="80" class="seismogram">
+            </div>
+
+            <p align="left" class="p1"> Welcome! This interactive map portrays the top 20 largest earthquakes that have ever been recorded. To the top right, you are able toggle layers on and off.
+                The first, is a point layer showing the largest earthquakes with proportional symbols. The second, is a heatlayer showing major earthquakes zones. To the bottom left, there is a range slider that queries the point layer by decade since the year 1900. However, the default of the map shows all earthquakes. For the point layer, you are able to click on a point to retrieve more information for that particular earthquake (location, magnitude, date, and time). All data used for this map was retrieved from the USGS.
+            </p>
+            <p align="right" class="p2"> Data:https://earthquake.usgs.gov/earthquakes/browse/ </p>
+        </div>
+        
+        
+        
+
+        
+
+
+        <script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
+        <script type="text/javascript" src="js/leaflet-sidebar.js"></script>
+        <script type="text/javascript" src="js/leaflet-sidebar.min.js"></script>
+        <script type="text/javascript" src="lib/leaflet-src.js"></script>
+        <script type="text/javascript" src="lib/leaflet.ajax.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.heat-0.2.0/dist/leaflet-heat.js"></script>
+        <script type="text/javascript" src="lib/esri-leaflet-v2.2.3/dist/esri-leaflet.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>
